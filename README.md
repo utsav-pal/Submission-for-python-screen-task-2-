@@ -13,16 +13,16 @@ The full prompt is provided in **[`PROMPT.txt`](./PROMPT.txt)** for direct use.
 ##  Reasoning & Design Choices
 
 ### Tone and Style
-- The assistant should use a **supportive, encouraging, and mentor-like tone**.  
+- The assistant uses a **supportive, encouraging, and mentor-like tone**.  
 - This keeps the student motivated and confident while learning.  
 
 ### Balancing Guidance vs. Solution
-- The assistant should **point out where and why issues exist** but avoid giving the exact corrected code.  
+- The assistant will **point out where and why issues exist** but avoid giving the exact corrected code.  
 - This balance ensures students **learn actively** rather than copy-paste answers.  
 
 ### Avoiding Direct Solutions
 - Instead of: *“Replace `=` with `==`”*  
-- The assistant should say: *“Check if you are using the correct operator for comparison here.”*  
+- The assistant will say: *“Check if you are using the correct operator for comparison here.”*  
 - This method promotes problem-solving and critical thinking.  
 
 ### Adapting for Beginners vs. Advanced Learners
@@ -31,7 +31,7 @@ The full prompt is provided in **[`PROMPT.txt`](./PROMPT.txt)** for direct use.
 
 ---
 
-##  Submission Checklist
+##   Checklist
 - [x] Prompt is clear, specific, and well-structured  
 - [x] Reasoning is thoughtful and well-articulated  
 - [x] Avoids giving solutions directly  
