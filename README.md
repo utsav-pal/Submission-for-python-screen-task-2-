@@ -1,7 +1,7 @@
 # Python Screening Task 2: AI Debugging Assistant Prompt
 
 ## Task Objective
-The goal of this task is to design a **prompt** that instructs an AI assistant to help students debug their Python code. The AI should provide **constructive, non-revealing feedback**—guiding the student to discover and fix mistakes on their own, rather than giving away the solution.
+The goal of this task is to design a **prompt** that instructs an AI assistant to help students debug their Python code. The AI will provide **constructive, non-revealing feedback**—guiding the student to discover and fix mistakes on their own, rather than giving away the solution.
 
 ---
 
@@ -13,7 +13,7 @@ The full prompt is provided in **[`PROMPT.txt`](./PROMPT.txt)** for direct use.
 ##  Reasoning & Design Choices
 
 ### Tone and Style
-- The assistant uses a **supportive, encouraging, and mentor-like tone**.  
+- Through this promt the AI assistant will  use a **supportive, encouraging, and mentor-like tone**.  
 - This keeps the student motivated and confident while learning.  
 
 ### Balancing Guidance vs. Solution
